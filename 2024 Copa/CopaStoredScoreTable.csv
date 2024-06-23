@@ -1,3 +1,4 @@
 "name","home_team_name","away_team_name","id","uid","date","tz","home_pG","away_pG","home_chance","away_chance","draw_chance","home_score","away_score","home_win","away_win"
 "Canada at Argentina","Argentina","Canada",690705,"s:600~l:780~e:690705~c:690705","2024-06-21 00:00:00","UTC",2.1404,0.580266666666667,0.734666666666667,0.0861333333333333,0.1792,2,0,TRUE,FALSE
 "Chile at Peru","Peru","Chile",690706,"s:600~l:780~e:690706~c:690706","2024-06-22 00:00:00","UTC",0.894333333333333,1.06313333333333,0.2994,0.382533333333333,0.318066666666667,0,0,FALSE,FALSE
+"Venezuela at Ecuador","Ecuador","Venezuela",690708,"s:600~l:780~e:690708~c:690708","2024-06-22 22:00:00","UTC",1.0048,0.686,0.422133333333333,0.240933333333333,0.336933333333333,1,2,FALSE,TRUE
