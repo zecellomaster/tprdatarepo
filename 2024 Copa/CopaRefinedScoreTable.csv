@@ -1,5 +1,4 @@
 "name","home_team_name","away_team_name","id","uid","date","tz","home_pG","away_pG","home_chance","away_chance","draw_chance","home_score","away_score","home_win","away_win"
-"Ecuador at Argentina","Argentina","Ecuador",703946,"s:600~l:780~e:703946~c:703946","2024-07-05 01:00:00","UTC",1.5622,0.401466666666667,0.809666666666667,0.190333333333333,0,NA,NA,NA,NA
-"Canada at Venezuela","Venezuela","Canada",703947,"s:600~l:780~e:703947~c:703947","2024-07-06 01:00:00","UTC",1.27533333333333,0.787933333333333,0.599133333333333,0.400866666666667,0,NA,NA,NA,NA
-"Panama at Colombia","Colombia","Panama",703948,"s:600~l:780~e:703948~c:703948","2024-07-06 22:00:00","UTC",2.0612,0.933333333333333,0.763266666666667,0.236733333333333,0,NA,NA,NA,NA
-"Brazil at Uruguay","Uruguay","Brazil",703949,"s:600~l:780~e:703949~c:703949","2024-07-07 01:00:00","UTC",1.4458,1.1376,0.5538,0.4462,0,NA,NA,NA,NA
+"Canada at Venezuela","Venezuela","Canada",703947,"s:600~l:780~e:703947~c:703947","2024-07-06 01:00:00","UTC",1.26673333333333,0.7688,0.6086,0.3914,0,NA,NA,NA,NA
+"Panama at Colombia","Colombia","Panama",703948,"s:600~l:780~e:703948~c:703948","2024-07-06 22:00:00","UTC",2.03846666666667,0.931733333333333,0.756066666666667,0.243933333333333,0,NA,NA,NA,NA
+"Brazil at Uruguay","Uruguay","Brazil",703949,"s:600~l:780~e:703949~c:703949","2024-07-07 01:00:00","UTC",1.44366666666667,1.1272,0.555333333333333,0.444666666666667,0,NA,NA,NA,NA
