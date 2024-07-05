@@ -1,4 +1,3 @@
 "name","home_team_name","away_team_name","id","uid","date","tz","home_pG","away_pG","home_chance","away_chance","draw_chance","home_score","away_score","home_win","away_win"
-"France at Portugal","Portugal","France",703940,"s:600~l:781~e:703940~c:703940","2024-07-05 19:00:00","UTC",0.9608,1.19406666666667,0.434733333333333,0.565266666666667,0,NA,NA,NA,NA
-"Switzerland at England","England","Switzerland",703941,"s:600~l:781~e:703941~c:703941","2024-07-06 16:00:00","UTC",1.09026666666667,1.10813333333333,0.494266666666667,0.505733333333333,0,NA,NA,NA,NA
-"Turkey at Netherlands","Netherlands","Turkey",703942,"s:600~l:781~e:703942~c:703942","2024-07-06 19:00:00","UTC",2.23946666666667,1.4428,0.669066666666667,0.330933333333333,0,NA,NA,NA,NA
+"Switzerland at England","England","Switzerland",703941,"s:600~l:781~e:703941~c:703941","2024-07-06 16:00:00","UTC",1.092,1.1116,0.497866666666667,0.502133333333333,0,NA,NA,NA,NA
+"Turkey at Netherlands","Netherlands","Turkey",703942,"s:600~l:781~e:703942~c:703942","2024-07-06 19:00:00","UTC",2.25586666666667,1.4448,0.666666666666667,0.333333333333333,0,NA,NA,NA,NA
