@@ -1,1 +1,2 @@
-﻿name,home_team_name,away_team_name,id,uid,date,tz,home_pG,away_pG,home_chance,away_chance,draw_chance,home_score,away_score,home_win,away_win
+"name","home_team_name","away_team_name","id","uid","date","tz","home_pG","away_pG","home_chance","away_chance","draw_chance","home_score","away_score","home_win","away_win"
+"South Africa at Mexico","Mexico","South Africa",760415,"s:600~l:606~e:760415~c:760415","2026-06-11 19:00:00","UTC",2.0724,0.378266666666667,0.7776,0.0539333333333333,0.168466666666667,2,0,TRUE,FALSE
