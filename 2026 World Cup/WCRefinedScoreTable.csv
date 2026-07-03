@@ -1,4 +1,4 @@
 "name","home_team_name","away_team_name","home_team_id","away_team_id","id","uid","date","tz","home_pG","away_pG","home_chance","away_chance","draw_chance","home_score","away_score","home_win","away_win"
-"Egypt at Australia","Australia","Egypt",628,2620,760499,"s:600~l:606~e:760499~c:760499","2026-07-03 18:00:00","UTC",1.00013333333333,0.890333333333333,0.545733333333333,0.454266666666667,0,NA,NA,NA,NA
-"Cape Verde at Argentina","Argentina","Cape Verde",202,2597,760500,"s:600~l:606~e:760500~c:760500","2026-07-03 22:00:00","UTC",2.37246666666667,0.385133333333333,0.906,0.094,0,NA,NA,NA,NA
-"Ghana at Colombia","Colombia","Ghana",208,4469,760501,"s:600~l:606~e:760501~c:760501","2026-07-04 01:30:00","UTC",1.95693333333333,0.5526,0.8296,0.1704,0,NA,NA,NA,NA
+"Egypt at Australia","Australia","Egypt",628,2620,760499,"s:600~l:606~e:760499~c:760499","2026-07-03 18:00:00","UTC",0.986066666666667,0.8936,0.538266666666667,0.461733333333333,0,NA,NA,NA,NA
+"Cape Verde at Argentina","Argentina","Cape Verde",202,2597,760500,"s:600~l:606~e:760500~c:760500","2026-07-03 22:00:00","UTC",2.36406666666667,0.3994,0.899466666666667,0.100533333333333,0,NA,NA,NA,NA
+"Ghana at Colombia","Colombia","Ghana",208,4469,760501,"s:600~l:606~e:760501~c:760501","2026-07-04 01:30:00","UTC",1.9646,0.574133333333333,0.8278,0.1722,0,NA,NA,NA,NA
