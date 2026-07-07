@@ -1,2 +1,5 @@
 "name","home_team_name","away_team_name","home_team_id","away_team_id","id","uid","date","tz","home_pG","away_pG","home_chance","away_chance","draw_chance","home_score","away_score","home_win","away_win"
-"Colombia at Switzerland","Switzerland","Colombia",475,208,760508,"s:600~l:606~e:760508~c:760508","2026-07-07 20:00:00","UTC",1.24526666666667,1.38926666666667,0.467466666666667,0.532533333333333,0,NA,NA,NA,NA
+"Morocco at France","France","Morocco",478,2869,760510,"s:600~l:606~e:760510~c:760510","2026-07-09 20:00:00","UTC",1.76726666666667,1.04566666666667,0.6752,0.3248,0,NA,NA,NA,NA
+"Belgium at Spain","Spain","Belgium",164,459,760511,"s:600~l:606~e:760511~c:760511","2026-07-10 19:00:00","UTC",1.81753333333333,1.43826666666667,0.593533333333333,0.406466666666667,0,NA,NA,NA,NA
+"England at Norway","Norway","England",464,448,760512,"s:600~l:606~e:760512~c:760512","2026-07-11 21:00:00","UTC",1.8384,2.08013333333333,0.454133333333333,0.545866666666667,0,NA,NA,NA,NA
+"Switzerland at Argentina","Argentina","Switzerland",202,475,760513,"s:600~l:606~e:760513~c:760513","2026-07-12 01:00:00","UTC",2.0428,1.39946666666667,0.641133333333333,0.358866666666667,0,NA,NA,NA,NA
